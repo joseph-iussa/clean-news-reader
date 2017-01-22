@@ -1,0 +1,21 @@
+{
+    "feeds": [
+        { "id": 1, "name": "Idle Thumbs" },
+        { "id": 2, "name": "ABC News" },
+        { "id": 3, "name": "BBC News" },
+        { "id": 4, "name": "Reddit" },
+        { "id": 5, "name": "Shop Talk" }
+    ],
+
+    "articles": [
+        { "id": 1, "title": "Wanderers ground the Jets",
+            "content": "<p>Lorem ipsum dolor sit amet, ad quo elitr causae, ne pro soluta nominati. Quidam posidonium definitionem ius ei. Soleat aliquid honestatis usu in, vim graece mediocritatem eu. Ius ad alii tota eirmod. </p> <p> Sit mutat delectus te. Vim et volumus eleifend, an vim duis inermis. Consul omnium in eam, in quot rebum nam. Qui viris torquatos no, ex vis malis eleifend vulputate, mea in erat evertitur. At qui graecis pertinacia. </p> <p> Nec an dicunt blandit, graeci expetenda philosophia sea no. Utamur dolorum duo in. Epicuri interpretaris per no, eam justo quaestio an. Vim fuisset mediocrem ex, mei no tantas aliquando, suas habeo recusabo has eu. In nam nostrum detraxit, assum mentitum reprehendunt in eam. Est et graeci voluptatum. </p> <p> In quem iracundia vim, ius id omnis menandri. Pri ei denique elaboraret, cu cum repudiare argumentum disputando, sed ut erat maiestatis. Quas aeterno malorum at nec, vim no aeterno apeirian facilisis. Pro fugit scripserit ut, fabulas habemus eam no, an qui debitis euripidis tincidunt. Mei ei natum saperet contentiones, novum possit nominati mea ex. Ius ut dicant aperiam propriae. </p> <p> Eu verear scribentur nec, putent deseruisse argumentum eu ius. Pro ei adhuc clita utamur, animal legimus praesent vix te. Exerci labitur nec ei, est te meis labore, mel dictas consectetuer ne. Vix essent aliquid eu. </p>" },
+        { "id": 2, "title": "Facial recognition to replace passports" },
+        { "id": 3, "title": "Ewan wins final stage" },
+        { "id": 4, "title": "Veterans find new careers" },
+        { "id": 5, "title": "Galleries open grounds to Canberra canines" },
+        { "id": 6, "title": "South Road reopened to traffic" },
+        { "id": 7, "title": "Sewage leak closes oyster farms" },
+        { "id": 8, "title": "Beehives get airlift" }
+    ]
+}

@@ -1,0 +1,1 @@
+A web based news reader built using [React](https://facebook.github.io/react/).
